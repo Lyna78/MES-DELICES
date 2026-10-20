@@ -1,8 +1,7 @@
-# Mes delices
-# # "thé à la menthe"
-# ingredients
-+ - menthe
-+ - sucre en poudre
-+ - thé vert
-+ - eau
-+ - DESSERT
+# RECETTE 
+# RIZ AU LAIT
+## INGREDIENTS
++ - Lait
++ - Vanille
++ - Riz
++ - Sucre en poudre
